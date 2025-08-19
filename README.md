@@ -1,2 +1,19 @@
-# arunika
-Arunika - A lightweight Node.js framework with modular plugins, WebSocket, Auth, and Swagger support.
+# 🌅 Arunika Framework
+
+Arunika adalah **framework Node.js ringan** yang terinspirasi dari Express, dengan tambahan fitur modern seperti:
+
+- 🚏 Modular Router (`/api/v1`)
+- ⚡ Async handler + Error handling built-in
+- ✅ Middleware Validation
+- 🔒 JWT Authentication
+- 🌍 CORS & Rate Limiter
+- 🔐 Helmet Security
+- 📡 WebSocket Support
+- 📖 Swagger UI (API Docs)
+
+---
+
+## 🚀 Instalasi
+
+```bash
+npm install arunika
